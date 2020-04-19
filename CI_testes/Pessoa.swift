@@ -24,7 +24,7 @@ class Pessoa{
     
     
     func anoNascimento() -> Int{
-        (2020 - idade-2)
+        (2020 - idade)
     }
     
     
